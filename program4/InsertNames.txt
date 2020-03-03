@@ -1,0 +1,2 @@
+First_name Last_name xxx-xx-xxxx(social) Email_Address age
+repeat pattern for as many entries as wanted
