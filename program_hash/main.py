@@ -1,4 +1,5 @@
 import time
+#need DelteNames.txt, InsertNames.txt, RetrieveNames.txt
 
 class student:
   def __init__(self,student):
